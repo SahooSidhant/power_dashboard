@@ -24,13 +24,6 @@
 | 13             | Business Intelligence Analysts   |
 | 14             | Operations Researchers           |
 
-
-# INTRODUCTION
-`I’m Sameer`, a data scientist and software developer. This application is built **to address data-related challenges** across various fields. It provides a structured approach to data workflows, including collection, exploration, cleaning, transformation, analysis, and interpretation, helping to uncover valuable insights and support effective business decisions.
-
-# PROBLEM STATEMENT
-```The target audience mentioned above``` struggles to analyze large datasets effectively. Many do not know the right tools or technologies for data collection, analysis, and interpretation. Instead, they rely on manual calculations, Excel, or SPSS. These methods may work for small datasets but often lead to computational errors, inaccurate results, wrong findings and other data problems.
-
 # IMPORTANCE OF THIS PROJECT
 
 This project **simplifies** data analysis by providing **automated tools** and **mathematical models** that use data science and statistical techniques to handle complex data efficiently. It **reduces errors, saves time**, and allows users to get accurate results without needing advanced skills or manual calculations. Additionally, the project demonstrates **how to apply mathematical models** and open-source pre-trained machine learning models to solve real-world problems in business enviroment, making data-driven informed decisions more accessible and effective.
