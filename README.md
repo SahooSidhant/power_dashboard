@@ -2,13 +2,7 @@
 ## SCIENTIFIC COMPUTING:  INFERENTIAL & DESCRIPTIVE STATISTICS
 ## DATA-DRIVEN WEB APPLICATIONS: PYTHON & STREAMLIT
 
-<!--![1](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/f7ad0f6c-16e0-4085-a129-4ede0b5b024c)-->
 
-### Live Demo
-[Live Demo](https://open-projects.streamlit.app/)
-
-### YouTube
-[Watch the video](https://www.youtube.com/watch?v=YkPxL-XLM7I)
 
 
 # TARGET AUDIENCE
